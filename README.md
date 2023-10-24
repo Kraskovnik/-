@@ -27,9 +27,8 @@
   <li>регрессионное тестирование.</li>
 </ul>
 
- <a href="[https://www.notion.so/55b86b61c702433ea5f4b4e15fce1620]">Ссылка на проект</a>
- <p> логин: dehico8286@fsouda.com </p>
- <p> пароль: 16Jan2023 </p>
+ <a>[Ссылка на проект](https://www.notion.so/55b86b61c702433ea5f4b4e15fce1620)</a>
+
  
  <p>Выводы (итоги):<p>
 <ol>
