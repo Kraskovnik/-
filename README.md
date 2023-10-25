@@ -49,7 +49,7 @@
 
 
 
- <a><em><strong>[Материалы проекта](https://www.notion.so/1-2-b48aabded2734056b373e66f6591ce37)</strong></em> </a>
+ <a><em><strong>[Материалы проекта](https://www.notion.so/55b86b61c702433ea5f4b4e15fce1620)</strong></em> </a>
  
 
 
