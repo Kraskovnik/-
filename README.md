@@ -49,18 +49,11 @@
 
 
 
->  <a href="https://fogen.notion.site/fogen/1-2-Web-REST-API-Postman-5f1700d11e1840b2a4e244b38cb0190f">Ссылка на проект</a>
-  (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
+ <a><em><strong>[Материалы проекта](https://www.notion.so/1-2-b48aabded2734056b373e66f6591ce37)</strong></em> </a>
  
- <p>Выводы (итоги):<p>
-<ol>
-  <li>Итог №1</li>
-  <li>Итог №2</li>
-</ol>
 
 
 
 ## Контактная информация
 - Email: kraskov.1998@mail.ru
-- LinkedIn: https://www.linkedin.com/in/username/
-- Личный сайт: https://www.username.com
+- https://t.me/Kraskov_nik
