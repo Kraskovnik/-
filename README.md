@@ -26,7 +26,6 @@
   <li>функциональное тестирование,</li>
   <li>регрессионное тестирование.</li>
 </ul>
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b8485d6c-f7d5-46d6-b61b-923144b128e4/ec97b431-5ce4-480c-ad70-8fb74497aca6/Untitled.png)
 
  <a><em><strong>[Материалы проекта](https://www.notion.so/1-2-b48aabded2734056b373e66f6591ce37)</strong></em> </a>
 
